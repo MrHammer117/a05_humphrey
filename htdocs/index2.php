@@ -25,9 +25,8 @@ function noShadow(){
 <header>
 <h1>Three Column Layout</h1>
 </header>
-
 <div id="content">
-<div id="list">
+<div>
 <nav>
   <ul>
     <li><a href="#">One</a></li>
